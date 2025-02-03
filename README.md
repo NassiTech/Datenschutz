@@ -38,6 +38,8 @@
 - **Relationship:** Privacy by Design ensures systems are built with privacy in mind, while Privacy by Default ensures that the most protective settings are the standard.
 
 
+
+
 # Exercise 2
 # Data Protection Analysis: FitTrack Pro
 
