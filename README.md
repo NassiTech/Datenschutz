@@ -7,12 +7,12 @@
 
 ## 2. Sensitive Data
 **Definition:** Particularly sensitive personal data, such as health status, ethnic origin, or political opinions.
-**Example:** Medical records, biometric data.
+**Example:** Biometric data, medical records.
 
 ## 3. Anonymization vs. Pseudonymization
 - **Anonymization:** Process by which personal data is modified so that identification is no longer possible.
   **Example:** Removing all direct and indirect identifiers from a database.
-- **Pseudonymization:** Replacing personal data with a pseudonym so that identification is only possible with additional information.
+- **Pseudonymization:** Replacing personal data with a pseudonym so that identification is only possible with additional information (two keys identification: later associate the name to the pseudonyme).
   **Example:** Replacing customer names with a customer number.
 - **Relationship:** Both serve to protect personal data, but anonymization is irreversible while pseudonymization allows re-identification with additional data.
 
