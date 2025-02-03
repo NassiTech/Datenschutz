@@ -37,3 +37,38 @@
 - **Relationship:** Privacy by Design ensures systems are built with privacy in mind, while Privacy by Default ensures that the most protective settings are the standard.
 
 
+## Exercise 2
+# Data Protection Analysis: FitTrack Pro
+
+## Overview
+FitTrack Pro is a mobile app that helps users track their health by recording heart rate, sleep patterns, and activity levels. The app sends this information to a cloud server to create personalized health reports.
+
+## Collected Data
+- **Personal Data:** Name and age.
+- **Sensitive Data:** Health-related details like heart rate and sleep times.
+- **Additional Data:** Location for tracking activities.
+
+## Understanding the Data
+- **Personal Data:** This includes any information that can identify a person, like their name and age.
+- **Sensitive Data:** Health data is more private and needs extra protection because it reveals details about a person’s well-being (psycologic problems or gender identification).
+- **Location Data:** This isn’t always sensitive, but when combined with other details, it can reveal a lot about someone’s habits and behaviours.
+
+## How Data Can Be Protected
+### Ways to Keep Data Safe
+- **Anonymization:**
+  - Removing names or emails so that no one can tell who the data belongs to.
+  - Grouping sleep and activity data together in general statistics rather than tracking individuals.
+- **Pseudonymization:**
+  - Replacing names with unique codes so data can be used without revealing identities.
+  - Keeping personal details separate from health data in different secure databases.
+
+## Best Practices
+1. **Use Anonymization** where possible to protect privacy while still allowing useful analysis.
+2. **Apply Pseudonymization** for cases where user-specific tracking is needed but should be kept secure.
+3. **Follow Data Protection Laws** like GDPR (General Data Protection Regulation) by using strong security measures like encryption and access controls.
+
+## Conclusion
+Since FitTrack Pro collects personal and sensitive data, it must have strong privacy conditions. By anonymizing and pseudonymizing data, the app can keep user information safe while still providing helpful health insights.
+
+
+
