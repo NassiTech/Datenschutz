@@ -70,8 +70,8 @@ FitTrack Pro is a mobile app that helps users track their health by recording he
 2. **Apply Pseudonymization** for cases where user-specific tracking is needed but should be kept secure.
 3. **Follow Data Protection Laws** like GDPR (General Data Protection Regulation) by using strong security measures like encryption and access controls.
 
-## Conclusion
-Since FitTrack Pro collects personal and sensitive data, it must have strong privacy conditions. By anonymizing and pseudonymizing data, the app can keep user information safe while still providing helpful health insights.
+## Summatry
+Since FitTrack Pro collects personal and sensitive data, it must have strong privacy conditions. By anonymizing and pseudonymizing data, the app can keep user information safe but still providing helpful health views or informations.
 
 
 
