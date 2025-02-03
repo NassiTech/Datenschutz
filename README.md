@@ -12,13 +12,13 @@
 ## 3. Anonymization vs. Pseudonymization
 - **Anonymization:** Process by which personal data is modified so that identification is no longer possible.
   **Example:** Removing all direct and indirect identifiers from a database.
-- **Pseudonymization:** Replacing personal data with a pseudonym so that identification is only possible with additional information (two keys identification: later associate the name to the pseudonyme).
+- **Pseudonymization:** Replacing personal data with a pseudonym so that identification is only possible with additional information (two keys identification: later only accessible if we associate the name to the pseudonyme).
   **Example:** Replacing customer names with a customer number.
 - **Relationship:** Both serve to protect personal data, but anonymization is irreversible while pseudonymization allows re-identification with additional data.
 
 ## 4. Data Protection vs. Data Security
 - **Data Protection:** Protection of personal data against misuse and unauthorized access.
-  **Example:** GDPR regulations for processing personal data.
+  **Example:** GDPR (General Data Protection Regulation) regulations for processing personal data.
 - **Data Security:** Technical and organizational measures to protect data from loss, manipulation, or unauthorized access.
   **Example:** Encryption, firewalls, access controls.
 - **Relationship:** Data protection sets the rules, while data security ensures compliance through technical safeguards.
@@ -66,12 +66,12 @@ FitTrack Pro is a mobile app that helps users track their health by recording he
   - Keeping personal details separate from health data in different secure databases.
 
 ## Best Practices
-1. **Use Anonymization** where possible to protect privacy while still allowing useful analysis.
-2. **Apply Pseudonymization** for cases where user-specific tracking is needed but should be kept secure.
+1. **Use Anonymization** where it is possible to protect privacy and still allowing useful analysis.
+2. **Apply Pseudonymization** for cases where user-specific tracking is needed (geolocalization for hiking -> estimate altitude, speed...) but should be kept secure.
 3. **Follow Data Protection Laws** like GDPR (General Data Protection Regulation) by using strong security measures like encryption and access controls.
 
 ## Summatry
-Since FitTrack Pro collects personal and sensitive data, it must have strong privacy conditions. By anonymizing and pseudonymizing data, the app can keep user information safe but still providing helpful health views or informations.
+Since FitTrack Pro collects personal and sensitive data, it must have strong privacy conditions. By anonymizing and pseudonymizing data, the app can keep user information safe but still providing helpful health views and informations.
 
 
 
